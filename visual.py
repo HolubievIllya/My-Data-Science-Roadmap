@@ -166,8 +166,3 @@ def scatterplot_axes_comparable() -> bool:
     return True 
 
 
-items = [["phone","blue","pixel"],["computer","silver","phone"],["phone","gold","iphone"]]
-for i in items:
-    print(i)
-
-print(int(3/2))
