@@ -81,6 +81,11 @@
   | [Coursera](https://www.coursera.org/learn/dna-sequencing) | Algorithms for DNA Sequencing | **Completed** |  
   | [Neetcode](https://neetcode.io/roadmap) | Algorithms Roadmap | **On Going** |    
 ### SQL
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python	 | **To Do** |
+  | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization	 | **To Do** |  
+  | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization		 | **To Do** |    
 ### PowerBi (Tableau)
 
 ## Bioinformatics
