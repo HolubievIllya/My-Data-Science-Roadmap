@@ -1,5 +1,13 @@
 ## ROADMAP
 ### Python
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Beetroot Academy](https://beetrootacademy.com/courses/python-development) | Python development | **Completed** |
+  | [Coursera](https://www.coursera.org/learn/python-data) | Python Data Structures | **Completed** |  
+  | [Coursera](https://www.coursera.org/learn/python) | Programming for Everybody (Getting Started with Python) | **Completed** |   
+  | [Campster](https://www.thecampster.com/ua/pdf/cert_en-442125) | Python Programming Fundamentals | **Completed** |  
+  | [Coursera](https://www.coursera.org/learn/python-network-data) | Using Python to Access Web Data | **Completed** |    
+  | [Coursera](https://www.coursera.org/learn/django-web-framework) | Django Web Framework | **Completed** |    
 <p>Main libraries:</p>
 <ul>
   <li><b>Numpy</b></li>
@@ -30,7 +38,7 @@
 ### Machine learning and deep learning:
 | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **On Going** |
+  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **To Do** |
   | [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning | **To Do** |
   | [Coursera](https://www.coursera.org/specializations/data-science-python) | Applied Data Science with Python | **To Do** |
   | [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning | **To Do** |
@@ -42,22 +50,46 @@
   <li><b>TensorFlow</b></li>
   <li><b>Yolo</b></li>
   <li><b>Keras</b></li>
-  <li><b>OpenCV</b></li>
 </ul>
 
-#### Linux
+#### OpenCV
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/learn/python-project) | Python Project: pillow, tesseract, and opencv | **Completed** |
 
-#### Statistics
-#### Mathematical analysis
-#### Linear algebra
-#### Algorithms
-#### SQL
-#### PowerBi (Tableau)
+### R
+| URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/learn/data-analysis-r) | Data Analysis with R Programming (Google) | **On Going** |
+
+### Linux
+| URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Epam](https://training.epam.ua/en/training/3473) | DevOps Essentials Self-Paced | **Completed** |
+  | [Coursera](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | Linux and Bash for Data Engineering | **Completed** |  
+  | [Coursera](https://www.coursera.org/learn/genomic-tools) | Command Line Tools for Genomic Data Science | **Completed** | 
+  
+### Statistics
+| URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/learn/statistical-genomics) | Statistics for Genomic Data Science | **Completed** |
+### Mathematical analysis
+### Linear algebra
+### Algorithms
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/learn/dna-sequencing) | Algorithms for DNA Sequencing | **Completed** |  
+  | [Neetcode](https://neetcode.io/roadmap) | Algorithms Roadmap | **On Going** |    
+### SQL
+### PowerBi (Tableau)
 
 ## Bioinformatics
   | URL | Title | Status |
   | :---: | --- | :---: |
   | [Coursera](https://www.coursera.org/learn/introduction-genomics) | Introduction to Genomic Technologies | **Completed** |
+  | [Coursera](https://www.coursera.org/learn/python-genomics) | Python for Genomic Data Science | **Completed** |
+  | [Coursera](https://www.coursera.org/learn/cancer) | Introduction to the Biology of Cancer | **Completed** |
+  | [Coursera](https://www.coursera.org/learn/bioconductor) | Bioconductor for Genomic Data Science | **Completed** |  
   | [Coursera](https://www.coursera.org/learn/informatics#testimonials) | Bacterial Bioinformatics | **To Do** |  
   | [Coursera](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/bioinformatics) | Biology Meets Programming: Bioinformatics for Beginners | **To Do** |  
   
