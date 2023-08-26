@@ -4,15 +4,21 @@
 <ul>
   <li><b>Numpy</b></li>
   <li><b>Scipy</b></li>
-  <li><b>Pandas</b></li>
 </ul>
+  
+#### Pandas
+
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **To do** |
+
 
 ### Visualization:
 #### Matplotlib
 
   | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Alison](https://alison.com/course/data-visualization-with-python-and-matplotlib) | Data Visualization with Python and Matplotlib | **On Going** |
+  | [Alison](https://alison.com/course/data-visualization-with-python-and-matplotlib) | Data Visualization with Python and Matplotlib | **Completed** |
   
 <ul>
   <li><b>Seaborn</b></li>
@@ -24,7 +30,12 @@
 ### Machine learning and deep learning:
 | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **To Do** |
+  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **On Going** |
+  | [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning | **To Do** |
+  | [Coursera](https://www.coursera.org/specializations/data-science-python) | Applied Data Science with Python | **To Do** |
+  | [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning | **To Do** |
+  | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning | **To Do** |
+  | [Coursera](https://www.coursera.org/specializations/ai-for-medicine) | AI for Medicine | **To Do** |
 <ul>
   <li><b>SciKit-Learn</b></li>
   <li><b>Pytorch</b></li>
