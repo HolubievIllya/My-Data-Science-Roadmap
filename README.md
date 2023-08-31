@@ -97,5 +97,10 @@
   | [Coursera](https://www.coursera.org/learn/bioconductor) | Bioconductor for Genomic Data Science | **Completed** |  
   | [Coursera](https://www.coursera.org/learn/informatics#testimonials) | Bacterial Bioinformatics | **To Do** |  
   | [Coursera](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/bioinformatics) | Biology Meets Programming: Bioinformatics for Beginners | **To Do** |  
-  
-  
+
+## Books
+| Title | Status |
+| :---: | :---: |
+|[Data Science from Scratch, 2nd Edition](https://github.com/joelgrus/data-science-from-scratch)| **On Going** |
+|[Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)| **On Going** |
+|[Біоінформатика посібник](https://github.com/naumenko-sa/bioinf_posibnyk_public)| **Completed** |
