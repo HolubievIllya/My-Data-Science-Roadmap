@@ -60,7 +60,7 @@
 ### R
 | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Coursera](https://www.coursera.org/learn/data-analysis-r) | Data Analysis with R Programming (Google) | **On Going** |
+  | [Coursera](https://www.coursera.org/learn/data-analysis-r) | Data Analysis with R Programming (Google) | **Completed** |
 
 ### Linux
 | URL | Title | Status |
@@ -104,3 +104,6 @@
 |[Data Science from Scratch, 2nd Edition](https://github.com/joelgrus/data-science-from-scratch)| **On Going** |
 |[Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)| **On Going** |
 |[Біоінформатика посібник](https://github.com/naumenko-sa/bioinf_posibnyk_public)| **Completed** |
+|[Python for Biologists](https://github.com/HolubievIllya/My-Data-Science-Roadmap/blob/main/Books/Python%20For%20Biologists.pdf)| **To Do** |
+|[Advanced Python for Biologists](https://github.com/HolubievIllya/My-Data-Science-Roadmap/blob/main/Books/Advanced%20Python%20for%20Biologists.pdf)| **To Do** |
+|[Effective Python development for Biologists and Biological Data Exploration](https://github.com/HolubievIllya/My-Data-Science-Roadmap/blob/main/Books/Effective%20Python%20development%20for%20Biologists%20and%20Biological%20Data%20Exploration.pdf)| **To Do** |
