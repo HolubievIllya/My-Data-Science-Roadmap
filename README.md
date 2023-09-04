@@ -18,7 +18,7 @@
 
   | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **To do** |
+  | [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **In Process** |
 
 
 ### Visualization:
@@ -101,8 +101,8 @@
 ## Books
 | Title | Status |
 | :---: | :---: |
-|[Data Science from Scratch, 2nd Edition](https://github.com/joelgrus/data-science-from-scratch)| **On Going** |
-|[Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)| **On Going** |
+|[Data Science from Scratch, 2nd Edition](https://github.com/joelgrus/data-science-from-scratch)| **In Process** |
+|[Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)| **In Process** |
 |[Біоінформатика посібник](https://github.com/naumenko-sa/bioinf_posibnyk_public)| **Completed** |
 |[Python for Biologists](https://github.com/HolubievIllya/My-Data-Science-Roadmap/blob/main/Books/Python%20For%20Biologists.pdf)| **To Do** |
 |[Advanced Python for Biologists](https://github.com/HolubievIllya/My-Data-Science-Roadmap/blob/main/Books/Advanced%20Python%20for%20Biologists.pdf)| **To Do** |
