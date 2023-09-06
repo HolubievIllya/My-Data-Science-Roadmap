@@ -18,7 +18,7 @@
 
   | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **In Process** |
+  | [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **Completed** |
 
 
 ### Visualization:
