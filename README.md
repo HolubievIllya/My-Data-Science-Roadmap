@@ -38,7 +38,7 @@
 ### Machine learning and deep learning:
 | URL | Title | Status |
   | :---: | --- | :---: |
-  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **To Do** |
+  | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **In Process** |
   | [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning | **To Do** |
   | [Coursera](https://www.coursera.org/specializations/data-science-python) | Applied Data Science with Python | **To Do** |
   | [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning | **To Do** |
