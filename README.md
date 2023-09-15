@@ -40,6 +40,7 @@
   | :---: | --- | :---: |
   | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **Completed** |
   | [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning | **To Do** |
+  | [Coursera](https://www.coursera.org/learn/machine-learning-with-python) | Machine Learning With Python| **To Do** |  
   | [Coursera](https://www.coursera.org/specializations/data-science-python) | Applied Data Science with Python | **To Do** |
   | [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning | **To Do** |
   | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning | **To Do** |
