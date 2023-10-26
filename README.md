@@ -99,6 +99,12 @@
   | [Coursera](https://www.coursera.org/learn/informatics#testimonials) | Bacterial Bioinformatics | **To Do** |  
   | [Coursera](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/bioinformatics) | Biology Meets Programming: Bioinformatics for Beginners | **To Do** |  
 
+## English
+  | URL | Title | Status |
+  | :---: | --- | :---: |
+  | [Coursera](https://www.coursera.org/specializations/ielts-preparation) | IELTS Preparation | **To Do** |
+  | [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar | **To Do** | 
+
 ## Books
 | Title | Status |
 | :---: | :---: |
