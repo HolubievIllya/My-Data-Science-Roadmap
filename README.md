@@ -9,6 +9,7 @@
   | [Coursera](https://www.coursera.org/learn/python-network-data) | Using Python to Access Web Data | **Completed** |    
   | [Coursera](https://www.coursera.org/learn/django-web-framework) | Django Web Framework | **Completed** |
   | [datacamp](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) | Introduction to Python | **Completed** |  
+  | [datacamp](https://app.datacamp.com/learn/courses/intermediate-python) | Intermediate Python | **Completed** |    
 <p>Main libraries:</p>
 <ul>
   <li><b>Numpy</b></li>
